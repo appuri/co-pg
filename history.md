@@ -1,3 +1,9 @@
+1.2.4 / 2014-09-24
+==================
+
+ * Info: Updated `npm` dependencies to latest versions
+
+
 1.2.3 / 2014-01-22
 ==================
 
